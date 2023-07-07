@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cursor-glow {
+    cursor: none;
+  }
+  
+  .cursor-glow:hover::after {
+    content: '';
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 
+                0 0 10px rgba(255, 255, 255, 0.5), 
+                0 0 15px rgba(255, 255, 255, 0.5), 
+                0 0 20px rgba(255, 255, 255, 0.5);
+  }
+  
+  body {
+    overflow-x: hidden;
+  }
+  
