@@ -13,7 +13,7 @@ const GalleryNavbar: React.FC = () => {
       <div className="flex justify-between items-center md:items-center">
         <Link href="/">
           <h1 className="font-bold text-xl cursor-pointer mt-4">
-         Dyana Butler!
+         Dyana Butler
           </h1>
         </Link>
 
