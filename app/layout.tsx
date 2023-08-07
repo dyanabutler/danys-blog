@@ -38,7 +38,7 @@ const RootLayout: React.FC<RootLayoutProps> = ({ children, showNavbar = true }) 
   return (
     <html lang="en">
       <head />
-      <body className="dark:bg-stone-900">
+      <body >
         <ThemeProvider enableSystem={true} attribute="class">
           {NavbarComponent && <NavbarComponent />}
           {children}
