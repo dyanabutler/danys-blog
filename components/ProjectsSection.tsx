@@ -6,8 +6,16 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "UX/UI Design",
+    description:
+      "All of my work using tools like Figma, Next.JS, Javascript, and Sveltekit!",
+    image: "/familyphotos.png",
+    github: "https://github.com/hqasmei/katorfamilyphotos",
+    link: "https://katorfamilyphotos.com/",
+  },
+  {
     name: "Gallery",
-    description: "Procreate Artist",
+    description: "A museum of my work as a digital artist. From original designs using Procreate to SVG Logos using Adobe Illustrator.        `0",
     image: "/gallery_thumbnail.png",
     github: "https://github.com/dyanabutler/gallery",
     link: "/gallery",
@@ -19,14 +27,6 @@ const projects = [
     image: "/angle3tencent.png",
     github: "https://github.com/dyanabutler/writing-samples",
     link: "/blog",
-  },
-  {
-    name: "Videos",
-    description:
-      "My repository of videos from user-generated content to memes that make me laugh.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
   },
 ]
 
