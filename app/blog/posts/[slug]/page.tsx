@@ -50,7 +50,7 @@ const PostPage = (props: any) => {
       },
       a: {
         props: {
-          className: "dark:text-blue-400 text-blue-600 hover:underline",
+          className: "dark:text-violet-400 text-blue-600 hover:underline",
         }
       }
       // Add more tag overrides as needed.
@@ -60,7 +60,7 @@ const PostPage = (props: any) => {
   return (
     <>
       <PostsNavbar />
-      <div className="mt-24 mx-auto max-w-3xl px-4 sm:px-0">
+      <div className="mt-24 mx-auto max-w-3xl  px-4 sm:px-0">
         <div className="my-12 text-center">
           <h1 className="text-2xl ">{post.data.title}</h1>
           <p className=" mt-2">{post.data.date}</p>

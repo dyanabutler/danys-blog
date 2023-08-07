@@ -2,7 +2,7 @@
 title: "Breaking Free: My journey from Retail to Tech"
 subtitle: TLDR; Dyana, a self-taught web engineer, shares her journey from feeling undervalued in retail to finding her passion and worth in technology, highlighting the importance of continuous learning and self-belief. 
 date: 2023-8-07 3 min read
-image: '/angle2tiktok.png'
+image: '/deardiary.png'
 
 ---
 
