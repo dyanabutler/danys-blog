@@ -10,9 +10,6 @@ const skills = [
   { skill: "Tailwind CSS" },
   { skill: "Javascript" },
   { skill: "SQL" },
-  { skill: "Python" },
-  { skill: "GitHub" },
-  { skill: "Atlassian Products" },
 ]
 
 const AboutSection = () => {
