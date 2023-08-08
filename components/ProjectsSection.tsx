@@ -24,7 +24,7 @@ const projects = [
     name: "UX/UI Design",
     description:
       "All of my work using tools like Figma, Next.JS, Javascript, and Sveltekit!",
-    image: "",
+    image: "/webdev.png",
     github: "https://github.com/dyanabutler",
     link: "https://dribbble.com/dyanadesign",
   },
