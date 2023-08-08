@@ -15,7 +15,7 @@ const projects = [
   },
   {
     name: "Gallery",
-    description: "A museum of my work as a digital artist. From original designs using Procreate to SVG Logos using Adobe Illustrator.        `0",
+    description: "A museum of my work as a digital artist. From original designs using Procreate to SVG Logos using Adobe Illustrator.",
     image: "/gallery_thumbnail.png",
     github: "https://github.com/dyanabutler/gallery",
     link: "/gallery",
@@ -23,7 +23,7 @@ const projects = [
   {
     name: "UX/UI Design",
     description:
-      "All of my work using tools like Figma, Next.JS, Javascript, and Sveltekit!",
+      "Check out my creations, all crafted using tools like Figma, Next.JS, Tailwind CSS, and Sveltekit! [Publication still a work in progress] But hey, take a look around here for now! ",
     image: "/webdev.png",
     github: "https://github.com/dyanabutler",
     link: "https://dribbble.com/dyanadesign",
