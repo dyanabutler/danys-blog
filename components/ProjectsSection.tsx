@@ -6,12 +6,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "UX/UI Design",
+    name: "Writing",
     description:
-      "All of my work using tools like Figma, Next.JS, Javascript, and Sveltekit!",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "Technology, design, finance, and really whatever. I write about the things I'm learning and reading about, as well as musings that might occur after a glass of wine.",
+    image: "/deardiary.png",
+    github: "https://github.com/dyanabutler/writing-samples",
+    link: "/blog",
   },
   {
     name: "Gallery",
@@ -21,13 +21,15 @@ const projects = [
     link: "/gallery",
   },
   {
-    name: "Writing",
+    name: "UX/UI Design",
     description:
-      "Technology, design, finance, and really whatever. I write about the things I'm learning and reading about, as well as musings that might occur after a glass of wine.",
-    image: "/angle3tencent.png",
-    github: "https://github.com/dyanabutler/writing-samples",
-    link: "/blog",
+      "All of my work using tools like Figma, Next.JS, Javascript, and Sveltekit!",
+    image: "",
+    github: "https://github.com/dyanabutler",
+    link: "https://dribbble.com/dyanadesign",
   },
+  
+ 
 ]
 
 const ProjectsSection = () => {
