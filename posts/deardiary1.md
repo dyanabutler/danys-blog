@@ -6,6 +6,8 @@ image: '/deardiary.png'
 
 ---
 
+![](https://www.dyanabutler.com/_next/image?url=%2Fdeardiary02.png&w=3840&q=75)
+
 # Breaking Free: My Journey from Retail to Tech
 
 **TLDR;** Dyana, a self-taught web engineer, shares her journey from feeling undervalued in retail to finding her passion and worth in technology, highlighting the importance of continuous learning and self-belief.
