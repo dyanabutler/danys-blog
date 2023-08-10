@@ -1,7 +1,7 @@
 ---
 title: "Chat GPT-4 Can Hallucinate"
 subtitle: A testament to the rapid evolution of artificial intelligence when provided with ample resources to do so.
-date: 2023-3-13 7 min read
+date: 2023-03-13 7 min read
 image: /gpt4hallucinate.png
 
 ---

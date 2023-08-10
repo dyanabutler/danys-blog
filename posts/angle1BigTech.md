@@ -1,7 +1,7 @@
 ---
 title: "U.S. Government Prepares Tech Restrictions in China"
 subtitle: It's a bird, it's a plane, it's...a Chinese balloon putting Big Tech investors on edge!
-date: 2023-2-10 5 min read
+date: 2023-02-10 5 min read
 image: /angle1BigTech.png
 
 ---

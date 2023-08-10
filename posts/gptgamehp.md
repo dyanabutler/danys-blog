@@ -1,7 +1,7 @@
 ---
 title: "I Played An 11 Year Old's ChatGPT Game"
 subtitle: Overview of a text-based game an 11 year old boy created using ChatGPT
-date: 2023-3-20 5 min read
+date: 2023-03-20 5 min read
 image: /gptgamehp.png
 ---
 
