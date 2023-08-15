@@ -41,14 +41,17 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I have a passion for technology and desire to{" "}
+              I have a passion for technology and a mission to{" "}
               <span className="font-bold text-violet-500">
-                always push the limits of what is possible.
+              assist others in breaking free from their current roles,
               </span>{" "}
-              I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              I offer insights, guidance, and support. Follow my newsletter to learn about my experiences with online tech education like the Google IT Support Professional Certificate.
             </p>
+            <a href="https://dyanabutler.beehiiv.com/subscribe">
+  <button className="bg-pink-600 text-slate-100 px-6 py-2 rounded-md ml-2 mt-4  hover:bg-teal-100"> Breaking Free: From Retail to Tech Newsletter </button>
+</a>
           </div>
+         
           <div className="text-center md:w-1/2 md:text-left">
             <h1 className="text-2xl font-bold mb-6">My Skills</h1>
             <div className="flex flex-wrap flex-row justify-center z-10 md:justify-start">
@@ -70,6 +73,7 @@ const AboutSection = () => {
               height={300}
               className="hidden md:block md:relative md:top-2 md:left-20 md:z-0"
             />
+             
           </div>
         </div>
       </div>

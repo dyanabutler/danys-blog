@@ -23,7 +23,7 @@ const projects = [
   {
     name: "UX/UI Design",
     description:
-      "Check out my creations, all crafted using tools like Figma, Next.JS, Tailwind CSS, and Sveltekit! [Publication still a work in progress] But hey, take a look around here for now! ",
+      "Check out my creations, all crafted using tools like Figma, Next.JS, Tailwind CSS, and Sveltekit! [Publication still a work in progress] But hey, take a look around this site for now made by moi! ",
     image: "/webdev.png",
     github: "https://github.com/dyanabutler",
     link: "https://dribbble.com/dyanadesign",
