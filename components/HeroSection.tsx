@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-violet-500">
               Web Engineer and Content Creator{" "}
             </span>
-            based in Boston, MA. You have landed in the right place to explore a wealth of information that will help you break out of your retail role.
+            based in Boston, MA. You have landed in the right place to explore a wealth of information that will help you break out of your retail role or further your established business.
 
 
           </p>
@@ -42,7 +42,7 @@ const HeroSection = () => {
           
           <Link
             to="coupons"
-            className="text-neutral-100 font-semibold px-6 py-3 bg-green-600 rounded shadow hover:bg-green-700"
+            className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
             activeClass="active"
             spy={true}
             smooth={true}

@@ -47,9 +47,14 @@ const AboutSection = () => {
               </span>{" "}
               I offer insights, guidance, and support. Follow my newsletter to learn about my experiences with online tech education like the Google IT Support Professional Certificate.
             </p>
-            <a href="https://dyanabutler.beehiiv.com/subscribe">
-  <button className="bg-pink-600 text-slate-100 px-6 py-2 rounded-md ml-2 mt-4  hover:bg-teal-100"> Breaking Free: From Retail to Tech Newsletter </button>
+            <a href="mailto:dyanajbutler98@gmail.com">
+  <button className="bg-teal-600 text-slate-200 px-6 py-2 rounded-md ml-2 mt-4  hover:bg-teal-700"> Contact Me </button>
 </a>
+
+            <a href="https://dyanabutler.beehiiv.com/subscribe">
+  <button className="bg-pink-600 text-slate-300 px-6 py-2 rounded-md ml-2 mt-4  hover:bg-teal-100"> Breaking Free: From Retail to Tech Newsletter </button>
+</a>
+
           </div>
          
           <div className="text-center md:w-1/2 md:text-left">

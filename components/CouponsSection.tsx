@@ -15,7 +15,7 @@ const coupons = [
 const CouponsSection = () => {
   return (
     <section id="coupons">
-      <h1 className="my-10 text-center font-bold text-4xl">
+      <h1 className="my-4 text-center font-bold text-4xl">
         Coupons
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
       </h1>
